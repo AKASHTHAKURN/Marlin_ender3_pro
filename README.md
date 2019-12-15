@@ -5,6 +5,14 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 
+This copy of the Marlin 2.0 firmware has been modified to work with my Ender 3 Pro. It has the following customizations:
+* Bigtreetech SKR1.3 mainboard
+* 4 TMC2208 Stepper drivers running in UART Mode
+* BLTouch bed leveler (v2.0)
+* Petsfang fan duct
+* All Metal V6 Bowden Extruder
+* SeeMeCNC EZR Struder
+
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
