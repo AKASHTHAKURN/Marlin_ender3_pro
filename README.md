@@ -69,7 +69,7 @@ Proposed patches should be submitted as a Pull Request against the ([bugfix-2.0.
 
 ### [RepRap.org Wiki Page](http://reprap.org/wiki/Marlin)
 
-## Credits
+## Credits (team management):
 
 The current Marlin dev team consists of:
 
